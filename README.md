@@ -32,8 +32,6 @@ Já possuo formação técnica em programação pelo **Serratec**, e escolhi uti
 
 Atualmente trabalho com **front-end**, então este estudo de lógica com Java faz parte de um reforço de base.
 
-Meu próximo passo será focar em **JavaScript**, aprofundando ainda mais minha atuação na área.
-
 ---
 
 Desenvolvido por annamayatk · para fins de aprendizado
